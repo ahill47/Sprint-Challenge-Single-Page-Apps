@@ -6,6 +6,7 @@ body {
 }
 
 main {
+  font-family: 'Lakki Reddy', cursive;
   width: 85vw;
   min-height: 80vh;
   max-width: 1024px;
@@ -37,6 +38,7 @@ main {
 
 header h1 {
   text-align: center;
+  font-size:24px;
 }
 button{
   color:black;
