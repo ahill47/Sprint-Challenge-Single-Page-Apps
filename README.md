@@ -27,7 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side routing handles mapping between URL bar and the content a user sees via browser rather than via server. Sites that exclusively use client-side routing are single-page applications. We use JavaScript to manipulate the URL bar.
+
 
 ## Project Set Up
 
